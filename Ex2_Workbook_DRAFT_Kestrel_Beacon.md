@@ -135,7 +135,7 @@ Gate column: P = pilot gate (14 Dec), N = network gate (11 Jan), P+N = both.
 ## Part 5 · Readiness Statement
 
 **To:** Dr. Anjali Rao, Chief Medical Officer and Programme Sponsor
-**From:** [your name], AI Technical Program Manager, Beacon
+**From:** [Ashwin], AI Technical Program Manager, Beacon
 **Date:** 8 December 2026
 **Re:** Beacon pilot decision for 14 December
 
